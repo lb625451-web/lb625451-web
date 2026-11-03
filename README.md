@@ -14,7 +14,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, apaixonado por te
 
 ### 📂 Meus Projetos em Destaque
 
-* **[Conversor de Moedas em C](https://github.com/lb625451-web/conversor-moedas-c):** Aplicação em linguagem C desenvolvida para operações rápidas via linha de comando, focada em lógica e manipulação de taxas de câmbio[span_1](start_span)[span_1](end_span).
+* **[Conversor de Moedas em C](https://github.com/lb625451-web/conversor-moedas-c):** Aplicação em linguagem C desenvolvida para operações rápidas via linha de comando, focada em lógica e manipulação de taxas de câmbio.
 * **Projetos Web (HTML/CSS):** Páginas interativas desenvolvidas para treinar estruturação de layouts, design responsivo e estilização
 * **Modelagem de Dados:** Diagramas conceituais e lógicos focados em regras de negócio para sistemas acadêmicos e comerciai.
 
