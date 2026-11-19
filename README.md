@@ -1,10 +1,10 @@
-# Olá, sou o Lucas! 👋
+ Olá, sou o Lucas! 
 
 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, apaixonado por tecnologia, lógica de programação e empenhado em construir soluções web e estruturação de dados sólidas.
 
 ---
 
-### 🚀 Tecnologias e Ferramentas
+ Tecnologias e Ferramentas
 * **Linguagens:** C
 * **Frontend:** HTML5, CSS3
 * **Banco de Dados & Modelagem:** DER (Diagrama Entidade-Relacionamento), Modelagem Conceitual e Lógica (*brModelo*), PostgreSQL / pgAdmin
